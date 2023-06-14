@@ -1,0 +1,12 @@
+#contenedor {
+  height: 300px;
+  background-color: brown;
+}
+
+#container-grid {
+  background-color: yellow;
+}
+
+#container-grid .col {
+  border: 1px solid black;
+}
