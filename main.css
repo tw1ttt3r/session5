@@ -1,6 +1,7 @@
 #contenedor {
   height: 300px;
-  background-color: brown;
+  background-color: brown !important;
+  border-width: 13px !important;
 }
 
 #container-grid {
